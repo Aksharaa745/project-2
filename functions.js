@@ -60,3 +60,4 @@ let newSum = nums.reduce((sum, n) =>{
 }, (sum = 0));
 console.log(newSum);
 
+
